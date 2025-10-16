@@ -7,7 +7,7 @@ Guilherme Lunghini - RM 555892
 Matheus Bortolotto - RM 555189
 Luan Ramos - RM 558537
 
-##Como o código funciona
+## Como o código funciona
 
 *@lru_cache → evita recomputar estados repetidos (memoization automática).*
 
