@@ -1,4 +1,4 @@
-# Sprint4-DynamicProgramming
+# Sprint 4 Dynamic Programming
 
 Alunos:
 Marchel Augusto - RM 99856
